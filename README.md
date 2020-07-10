@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+#### 📫 How to reach me:
+---
+<br>
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laercio-santos-82479826/)](https://www.linkedin.com/in/laercio-santos-82479826/)
+
+
+- 🌱 I’m currently learning: React, Typescript
+
+
+
 <!--
 **Laerciosantosn/Laerciosantosn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
