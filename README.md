@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-#### 📫 How to reach me:
----
-<br>
+# Laércio Santos
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laercio-santos-82479826/)](https://www.linkedin.com/in/laercio-santos-82479826/)
+#### 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laercio-santos-82479826/)](https://www.linkedin.com/in/laercio-santos-82479826/)
 
-
+- 🔭 I’m currently working on: Unemployed
 - 🌱 I’m currently learning: React, Typescript
-
+- 💬 Ask me about: My code, project and studies
+- 🤔 I’m looking for help with: typescript
 
 
 <!--
